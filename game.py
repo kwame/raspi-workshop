@@ -5,6 +5,7 @@ import random
 
 #Necesito modificar los strings que solicitan el input del usuario, en vez de "left player" usar "jugador izquierdo"? así se lee bien?
 #agregando una linea de comentario
+#después de agregar configuración de git
 
 left_name = input('left player name is ')
 right_name = input('right player name is ')
